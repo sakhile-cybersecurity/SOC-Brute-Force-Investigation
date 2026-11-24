@@ -1,0 +1,115 @@
+2026-11-10 07:47:25 host=FS-01 EventCode=4624 Account=jsmith SourceIP=10.0.5.21 LogonType=3 Status=0x0
+2026-11-10 08:12:05 host=FS-01 EventCode=4625 Account=mpatel SourceIP=10.0.5.33 LogonType=3 Status=0xC000006D SubStatus=0xC000006A
+2026-11-10 08:12:19 host=FS-01 EventCode=4625 Account=mpatel SourceIP=10.0.5.33 LogonType=3 Status=0xC000006D SubStatus=0xC000006A
+2026-11-10 08:12:41 host=FS-01 EventCode=4624 Account=mpatel SourceIP=10.0.5.33 LogonType=3 Status=0x0
+2026-11-10 08:29:20 host=FS-01 EventCode=4624 Account=mpatel SourceIP=10.0.5.33 LogonType=3 Status=0x0
+2026-11-10 08:38:01 host=FS-01 EventCode=4624 Account=tnaidoo SourceIP=10.0.5.34 LogonType=3 Status=0x0
+2026-11-10 08:40:02 host=FS-01 EventCode=4624 Account=lvanwyk SourceIP=10.0.5.47 LogonType=3 Status=0x0
+2026-11-10 09:02:14 host=FS-01 EventCode=4624 Account=admin SourceIP=10.0.5.10 LogonType=2 Status=0x0
+2026-11-10 09:02:15 host=FS-01 EventCode=4672 Account=admin SourceIP=10.0.5.10 Privileges=SeBackupPrivilege
+2026-11-10 09:21:25 host=FS-01 EventCode=4634 Account=jsmith SourceIP=10.0.5.21 LogonType=3
+2026-11-10 09:33:20 host=FS-01 EventCode=4634 Account=mpatel SourceIP=10.0.5.33 LogonType=3
+2026-11-10 09:41:03 host=FS-01 EventCode=4634 Account=admin SourceIP=10.0.5.10 LogonType=2
+2026-11-10 10:40:39 host=FS-01 EventCode=4624 Account=jsmith SourceIP=10.0.5.21 LogonType=3 Status=0x0
+2026-11-10 11:05:02 host=FS-01 EventCode=4634 Account=lvanwyk SourceIP=10.0.5.47 LogonType=3
+2026-11-10 11:07:35 host=FS-01 EventCode=4624 Account=mpatel SourceIP=10.0.5.33 LogonType=3 Status=0x0
+2026-11-10 11:22:39 host=FS-01 EventCode=4634 Account=jsmith SourceIP=10.0.5.21 LogonType=3
+2026-11-10 11:26:38 host=FS-01 EventCode=4624 Account=tnaidoo SourceIP=10.0.5.34 LogonType=3 Status=0x0
+2026-11-10 11:32:01 host=FS-01 EventCode=4634 Account=tnaidoo SourceIP=10.0.5.34 LogonType=3
+2026-11-10 11:45:35 host=FS-01 EventCode=4634 Account=mpatel SourceIP=10.0.5.33 LogonType=3
+2026-11-10 12:08:16 host=FS-01 EventCode=4624 Account=sdlamini SourceIP=10.0.5.52 LogonType=3 Status=0x0
+2026-11-10 13:05:02 host=FS-01 EventCode=4625 Account=tnaidoo SourceIP=10.0.5.34 LogonType=3 Status=0xC000006D SubStatus=0xC000006A
+2026-11-10 13:05:20 host=FS-01 EventCode=4624 Account=tnaidoo SourceIP=10.0.5.34 LogonType=3 Status=0x0
+2026-11-10 13:39:38 host=FS-01 EventCode=4634 Account=tnaidoo SourceIP=10.0.5.34 LogonType=3
+2026-11-10 14:00:03 host=FS-01 EventCode=4624 Account=mpatel SourceIP=10.0.5.33 LogonType=3 Status=0x0
+2026-11-10 14:39:16 host=FS-01 EventCode=4634 Account=sdlamini SourceIP=10.0.5.52 LogonType=3
+2026-11-10 14:47:40 host=FS-01 EventCode=4624 Account=lvanwyk SourceIP=10.0.5.47 LogonType=3 Status=0x0
+2026-11-10 15:47:03 host=FS-01 EventCode=4634 Account=mpatel SourceIP=10.0.5.33 LogonType=3
+2026-11-10 15:52:13 host=FS-01 EventCode=4624 Account=sdlamini SourceIP=10.0.5.52 LogonType=3 Status=0x0
+2026-11-10 16:01:22 host=FS-01 EventCode=4624 Account=lvanwyk SourceIP=10.0.5.47 LogonType=3 Status=0x0
+2026-11-10 16:21:40 host=FS-01 EventCode=4634 Account=lvanwyk SourceIP=10.0.5.47 LogonType=3
+2026-11-10 16:24:46 host=FS-01 EventCode=4624 Account=tnaidoo SourceIP=10.0.5.34 LogonType=3 Status=0x0
+2026-11-10 16:27:05 host=FS-01 EventCode=4624 Account=jsmith SourceIP=10.0.5.21 LogonType=3 Status=0x0
+2026-11-10 16:40:35 host=FS-01 EventCode=4624 Account=sdlamini SourceIP=10.0.5.52 LogonType=3 Status=0x0
+2026-11-10 17:43:22 host=FS-01 EventCode=4634 Account=lvanwyk SourceIP=10.0.5.47 LogonType=3
+2026-11-10 18:42:13 host=FS-01 EventCode=4634 Account=sdlamini SourceIP=10.0.5.52 LogonType=3
+2026-11-10 18:47:35 host=FS-01 EventCode=4634 Account=sdlamini SourceIP=10.0.5.52 LogonType=3
+2026-11-10 19:03:05 host=FS-01 EventCode=4634 Account=jsmith SourceIP=10.0.5.21 LogonType=3
+2026-11-10 19:36:46 host=FS-01 EventCode=4634 Account=tnaidoo SourceIP=10.0.5.34 LogonType=3
+2026-11-10 23:47:12 host=FS-01 EventCode=4625 Account=administrator SourceIP=203.0.113.45 LogonType=3 Status=0xC000006D SubStatus=0xC0000064
+2026-11-10 23:47:16 host=FS-01 EventCode=4625 Account=guest SourceIP=203.0.113.45 LogonType=3 Status=0xC000006D SubStatus=0xC0000064
+2026-11-10 23:47:18 host=FS-01 EventCode=4625 Account=backup SourceIP=203.0.113.45 LogonType=3 Status=0xC000006D SubStatus=0xC0000064
+2026-11-10 23:47:20 host=FS-01 EventCode=4625 Account=test SourceIP=203.0.113.45 LogonType=3 Status=0xC000006D SubStatus=0xC0000064
+2026-11-10 23:47:23 host=FS-01 EventCode=4625 Account=admin SourceIP=203.0.113.45 LogonType=3 Status=0xC000006D SubStatus=0xC000006A
+2026-11-10 23:47:29 host=FS-01 EventCode=4625 Account=admin SourceIP=203.0.113.45 LogonType=3 Status=0xC000006D SubStatus=0xC000006A
+2026-11-10 23:47:37 host=FS-01 EventCode=4625 Account=admin SourceIP=203.0.113.45 LogonType=3 Status=0xC000006D SubStatus=0xC000006A
+2026-11-10 23:47:46 host=FS-01 EventCode=4625 Account=admin SourceIP=203.0.113.45 LogonType=3 Status=0xC000006D SubStatus=0xC000006A
+2026-11-10 23:47:49 host=FS-01 EventCode=4625 Account=admin SourceIP=203.0.113.45 LogonType=3 Status=0xC000006D SubStatus=0xC000006A
+2026-11-10 23:47:57 host=FS-01 EventCode=4625 Account=admin SourceIP=203.0.113.45 LogonType=3 Status=0xC000006D SubStatus=0xC000006A
+2026-11-10 23:48:01 host=FS-01 EventCode=4625 Account=admin SourceIP=203.0.113.45 LogonType=3 Status=0xC000006D SubStatus=0xC000006A
+2026-11-10 23:48:10 host=FS-01 EventCode=4625 Account=admin SourceIP=203.0.113.45 LogonType=3 Status=0xC000006D SubStatus=0xC000006A
+2026-11-10 23:48:14 host=FS-01 EventCode=4625 Account=admin SourceIP=203.0.113.45 LogonType=3 Status=0xC000006D SubStatus=0xC000006A
+2026-11-10 23:48:17 host=FS-01 EventCode=4625 Account=admin SourceIP=203.0.113.45 LogonType=3 Status=0xC000006D SubStatus=0xC000006A
+2026-11-10 23:48:25 host=FS-01 EventCode=4625 Account=admin SourceIP=203.0.113.45 LogonType=3 Status=0xC000006D SubStatus=0xC000006A
+2026-11-10 23:48:34 host=FS-01 EventCode=4625 Account=admin SourceIP=203.0.113.45 LogonType=3 Status=0xC000006D SubStatus=0xC000006A
+2026-11-10 23:48:42 host=FS-01 EventCode=4625 Account=admin SourceIP=203.0.113.45 LogonType=3 Status=0xC000006D SubStatus=0xC000006A
+2026-11-10 23:48:44 host=FS-01 EventCode=4625 Account=admin SourceIP=203.0.113.45 LogonType=3 Status=0xC000006D SubStatus=0xC000006A
+2026-11-10 23:48:49 host=FS-01 EventCode=4625 Account=admin SourceIP=203.0.113.45 LogonType=3 Status=0xC000006D SubStatus=0xC000006A
+2026-11-10 23:48:58 host=FS-01 EventCode=4625 Account=admin SourceIP=203.0.113.45 LogonType=3 Status=0xC000006D SubStatus=0xC000006A
+2026-11-10 23:49:01 host=FS-01 EventCode=4625 Account=admin SourceIP=203.0.113.45 LogonType=3 Status=0xC000006D SubStatus=0xC000006A
+2026-11-10 23:49:10 host=FS-01 EventCode=4625 Account=admin SourceIP=203.0.113.45 LogonType=3 Status=0xC000006D SubStatus=0xC000006A
+2026-11-10 23:49:16 host=FS-01 EventCode=4625 Account=admin SourceIP=203.0.113.45 LogonType=3 Status=0xC000006D SubStatus=0xC000006A
+2026-11-10 23:49:18 host=FS-01 EventCode=4625 Account=admin SourceIP=203.0.113.45 LogonType=3 Status=0xC000006D SubStatus=0xC000006A
+2026-11-10 23:49:22 host=FS-01 EventCode=4625 Account=admin SourceIP=203.0.113.45 LogonType=3 Status=0xC000006D SubStatus=0xC000006A
+2026-11-10 23:49:28 host=FS-01 EventCode=4625 Account=admin SourceIP=203.0.113.45 LogonType=3 Status=0xC000006D SubStatus=0xC000006A
+2026-11-10 23:49:30 host=FS-01 EventCode=4625 Account=admin SourceIP=203.0.113.45 LogonType=3 Status=0xC000006D SubStatus=0xC000006A
+2026-11-10 23:49:39 host=FS-01 EventCode=4625 Account=admin SourceIP=203.0.113.45 LogonType=3 Status=0xC000006D SubStatus=0xC000006A
+2026-11-10 23:49:42 host=FS-01 EventCode=4625 Account=admin SourceIP=203.0.113.45 LogonType=3 Status=0xC000006D SubStatus=0xC000006A
+2026-11-10 23:49:45 host=FS-01 EventCode=4625 Account=admin SourceIP=203.0.113.45 LogonType=3 Status=0xC000006D SubStatus=0xC000006A
+2026-11-10 23:49:49 host=FS-01 EventCode=4625 Account=admin SourceIP=203.0.113.45 LogonType=3 Status=0xC000006D SubStatus=0xC000006A
+2026-11-10 23:49:58 host=FS-01 EventCode=4625 Account=admin SourceIP=203.0.113.45 LogonType=3 Status=0xC000006D SubStatus=0xC000006A
+2026-11-10 23:50:00 host=FS-01 EventCode=4625 Account=admin SourceIP=203.0.113.45 LogonType=3 Status=0xC000006D SubStatus=0xC000006A
+2026-11-10 23:50:03 host=FS-01 EventCode=4625 Account=admin SourceIP=203.0.113.45 LogonType=3 Status=0xC000006D SubStatus=0xC000006A
+2026-11-10 23:50:06 host=FS-01 EventCode=4625 Account=admin SourceIP=203.0.113.45 LogonType=3 Status=0xC000006D SubStatus=0xC000006A
+2026-11-10 23:50:15 host=FS-01 EventCode=4625 Account=admin SourceIP=203.0.113.45 LogonType=3 Status=0xC000006D SubStatus=0xC000006A
+2026-11-10 23:50:22 host=FS-01 EventCode=4625 Account=admin SourceIP=203.0.113.45 LogonType=3 Status=0xC000006D SubStatus=0xC000006A
+2026-11-10 23:50:27 host=FS-01 EventCode=4625 Account=admin SourceIP=203.0.113.45 LogonType=3 Status=0xC000006D SubStatus=0xC000006A
+2026-11-10 23:50:33 host=FS-01 EventCode=4625 Account=admin SourceIP=203.0.113.45 LogonType=3 Status=0xC000006D SubStatus=0xC000006A
+2026-11-10 23:50:38 host=FS-01 EventCode=4625 Account=admin SourceIP=203.0.113.45 LogonType=3 Status=0xC000006D SubStatus=0xC000006A
+2026-11-10 23:50:44 host=FS-01 EventCode=4625 Account=admin SourceIP=203.0.113.45 LogonType=3 Status=0xC000006D SubStatus=0xC000006A
+2026-11-10 23:50:50 host=FS-01 EventCode=4625 Account=admin SourceIP=203.0.113.45 LogonType=3 Status=0xC000006D SubStatus=0xC000006A
+2026-11-10 23:50:52 host=FS-01 EventCode=4625 Account=admin SourceIP=203.0.113.45 LogonType=3 Status=0xC000006D SubStatus=0xC000006A
+2026-11-10 23:50:56 host=FS-01 EventCode=4625 Account=admin SourceIP=203.0.113.45 LogonType=3 Status=0xC000006D SubStatus=0xC000006A
+2026-11-10 23:51:02 host=FS-01 EventCode=4625 Account=admin SourceIP=203.0.113.45 LogonType=3 Status=0xC000006D SubStatus=0xC000006A
+2026-11-10 23:51:06 host=FS-01 EventCode=4625 Account=admin SourceIP=203.0.113.45 LogonType=3 Status=0xC000006D SubStatus=0xC000006A
+2026-11-10 23:51:10 host=FS-01 EventCode=4625 Account=admin SourceIP=203.0.113.45 LogonType=3 Status=0xC000006D SubStatus=0xC000006A
+2026-11-10 23:51:17 host=FS-01 EventCode=4625 Account=admin SourceIP=203.0.113.45 LogonType=3 Status=0xC000006D SubStatus=0xC000006A
+2026-11-10 23:51:26 host=FS-01 EventCode=4625 Account=admin SourceIP=203.0.113.45 LogonType=3 Status=0xC000006D SubStatus=0xC000006A
+2026-11-10 23:51:33 host=FS-01 EventCode=4625 Account=admin SourceIP=203.0.113.45 LogonType=3 Status=0xC000006D SubStatus=0xC000006A
+2026-11-10 23:51:42 host=FS-01 EventCode=4625 Account=admin SourceIP=203.0.113.45 LogonType=3 Status=0xC000006D SubStatus=0xC000006A
+2026-11-10 23:51:51 host=FS-01 EventCode=4625 Account=admin SourceIP=203.0.113.45 LogonType=3 Status=0xC000006D SubStatus=0xC000006A
+2026-11-10 23:51:53 host=FS-01 EventCode=4625 Account=admin SourceIP=203.0.113.45 LogonType=3 Status=0xC000006D SubStatus=0xC000006A
+2026-11-10 23:51:58 host=FS-01 EventCode=4625 Account=admin SourceIP=203.0.113.45 LogonType=3 Status=0xC000006D SubStatus=0xC000006A
+2026-11-10 23:52:01 host=FS-01 EventCode=4625 Account=admin SourceIP=203.0.113.45 LogonType=3 Status=0xC000006D SubStatus=0xC000006A
+2026-11-10 23:52:07 host=FS-01 EventCode=4625 Account=admin SourceIP=203.0.113.45 LogonType=3 Status=0xC000006D SubStatus=0xC000006A
+2026-11-10 23:52:15 host=FS-01 EventCode=4740 Account=admin SourceIP=203.0.113.45 Note="Account locked out"
+2026-11-11 00:21:38 host=FS-01 EventCode=4625 Account=admin SourceIP=203.0.113.45 LogonType=3 Status=0xC000006D SubStatus=0xC000006A
+2026-11-11 00:21:45 host=FS-01 EventCode=4625 Account=admin SourceIP=203.0.113.45 LogonType=3 Status=0xC000006D SubStatus=0xC000006A
+2026-11-11 00:21:53 host=FS-01 EventCode=4625 Account=admin SourceIP=203.0.113.45 LogonType=3 Status=0xC000006D SubStatus=0xC000006A
+2026-11-11 00:21:56 host=FS-01 EventCode=4625 Account=admin SourceIP=203.0.113.45 LogonType=3 Status=0xC000006D SubStatus=0xC000006A
+2026-11-11 00:22:02 host=FS-01 EventCode=4625 Account=admin SourceIP=203.0.113.45 LogonType=3 Status=0xC000006D SubStatus=0xC000006A
+2026-11-11 00:22:07 host=FS-01 EventCode=4625 Account=admin SourceIP=203.0.113.45 LogonType=3 Status=0xC000006D SubStatus=0xC000006A
+2026-11-11 00:22:14 host=FS-01 EventCode=4625 Account=admin SourceIP=203.0.113.45 LogonType=3 Status=0xC000006D SubStatus=0xC000006A
+2026-11-11 00:22:19 host=FS-01 EventCode=4625 Account=admin SourceIP=203.0.113.45 LogonType=3 Status=0xC000006D SubStatus=0xC000006A
+2026-11-11 00:22:23 host=FS-01 EventCode=4625 Account=admin SourceIP=203.0.113.45 LogonType=3 Status=0xC000006D SubStatus=0xC000006A
+2026-11-11 00:22:31 host=FS-01 EventCode=4624 Account=admin SourceIP=203.0.113.45 LogonType=10 Status=0x0
+2026-11-11 00:22:32 host=FS-01 EventCode=4672 Account=admin SourceIP=203.0.113.45 Privileges=SeDebugPrivilege
+2026-11-11 00:24:42 host=FS-01 EventCode=4688 Account=admin SourceIP=203.0.113.45 NewProcessName="C:\Windows\System32\whoami.exe" CommandLine=whoami
+2026-11-11 00:25:20 host=FS-01 EventCode=4688 Account=admin SourceIP=203.0.113.45 NewProcessName="C:\Windows\System32\net.exe" CommandLine="net user"
+2026-11-11 00:26:10 host=FS-01 EventCode=4688 Account=admin SourceIP=203.0.113.45 NewProcessName="C:\Windows\System32\net.exe" CommandLine="net localgroup administrators"
+2026-11-11 00:26:59 host=FS-01 EventCode=4688 Account=admin SourceIP=203.0.113.45 NewProcessName="C:\Windows\System32\ipconfig.exe" CommandLine="ipconfig /all"
+2026-11-11 00:27:44 host=FS-01 EventCode=4720 Account=admin SourceIP=203.0.113.45 TargetAccount=svc_backup2 Note="User account created"
+2026-11-11 00:28:06 host=FS-01 EventCode=4732 Account=admin SourceIP=203.0.113.45 TargetAccount=svc_backup2 Group=Administrators Note="Member added to security-enabled local group"
+2026-11-11 00:31:11 host=FS-01 EventCode=4688 Account=admin SourceIP=203.0.113.45 NewProcessName="C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe" CommandLine="powershell.exe -NoProfile -Command Get-ChildItem D:\Finance"
+2026-11-11 00:37:51 host=FS-01 EventCode=1102 Account=admin SourceIP=203.0.113.45 Note="The audit log was cleared"
+2026-11-11 00:38:21 host=FS-01 EventCode=4634 Account=admin SourceIP=203.0.113.45 LogonType=10
